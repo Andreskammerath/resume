@@ -1,0 +1,151 @@
+{
+    "basics": {
+      "name": "Andres Kammerath",
+      "label": "Senior Software Engineer | Data Engineer",
+      "email": "andreskammerath@gmail.com",
+      "phone": "(+54) 9 351-3466657",
+      "summary": "Senior Software Engineer and Data Engineer with 5+ years of experience specializing in Python development, AWS cloud solutions, and ETL pipeline optimization. Demonstrated success in reducing business analysis downtime by 66% and implementing scalable data solutions. Core expertise in cloud infrastructure, data engineering, and backend development.",
+      "profiles": [
+        {
+          "network": "GitHub",
+          "url": "https://github.com/Andreskammerath",
+          "username": "Andreskammerath"
+        },
+        {
+          "network": "LinkedIn",
+          "url": "https://linkedin.com/in/andresk",
+          "username": "andresk"
+        },
+        {
+          "network": "GitLab",
+          "url": "https://gitlab.com/akammerath",
+          "username": "akammerath"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Mercury Broadband",
+        "position": "Senior Software Engineer | Data Engineer",
+        "startDate": "2023-03",
+        "endDate": "Present",
+        "highlights": [
+          "Architected and implemented data infrastructure capturing daily database snapshots, improving business data traceability and analysis accuracy by 30%",
+          "Engineered automated ETL processes reducing query execution time by 200% for data analysis and reporting",
+          "Optimized business analysis processes, reducing runtime by 92% and analysis time by 66%"
+        ],
+        "technologies": ["AWS", "Python", "S3", "Athena", "ETL pipelines"]
+      },
+      {
+        "name": "Lenio Labs",
+        "position": "Software Engineer",
+        "startDate": "2022-03",
+        "endDate": "2023-03",
+        "highlights": [
+          "Developed and maintained Flask-based REST APIs, implementing critical features and resolving high-priority issues",
+          "Optimized CI/CD pipelines reducing build times by 65% through GitHub Actions improvements",
+          "Collaborated with Product team for feature development and technical specifications"
+        ],
+        "technologies": ["Python", "Flask", "GitHub Actions", "REST APIs"]
+      },
+      {
+        "name": "InvGate",
+        "position": "Backend Software Developer",
+        "startDate": "2021-10",
+        "endDate": "2022-03",
+        "highlights": [
+          "Developed features and resolved bugs for Django REST Framework-based API",
+          "Implemented comprehensive unit and integration testing suite",
+          "Conducted code reviews and contributed to product feature development"
+        ],
+        "technologies": ["Python", "Django REST Framework", "Unit Testing"]
+      },
+      {
+        "name": "Infoxel Media Labs",
+        "position": "Backend Software Developer",
+        "startDate": "2020-10",
+        "endDate": "2021-09",
+        "highlights": [
+          "Implemented Twitter data collection system processing thousands of daily tweets",
+          "Developed asset management system improving platform UX",
+          "Created web scraping service using Selenium and Docker"
+        ],
+        "technologies": ["Python", "ElasticSearch", "PubSub", "Docker", "Selenium"]
+      },
+      {
+        "name": "Porta Hnos. S.A",
+        "position": "Software Developer Jr",
+        "startDate": "2019-06",
+        "endDate": "2020-06",
+        "highlights": [
+          "Developed real-time security monitoring system improving safety compliance by 57%",
+          "Implemented facial recognition system for facility security"
+        ],
+        "technologies": ["Python", "Computer Vision", "Syslog"]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Nacional de Córdoba",
+        "area": "Computer Science",
+        "studyType": "Bachelor of Science",
+        "startDate": "2016-03",
+        "endDate": "2021-12",
+        "location": "Argentina"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "keywords": ["Python", "SQL", "JavaScript", "C"],
+        "level": "Advanced"
+      },
+      {
+        "name": "Cloud Platforms",
+        "keywords": ["AWS", "Google Cloud Platform (GCP)"]
+      },
+      {
+        "name": "Frameworks & Technologies",
+        "keywords": ["Django", "Django REST Framework", "Flask", "NextJS"]
+      },
+      {
+        "name": "Databases",
+        "keywords": ["PostgreSQL", "ElasticSearch"]
+      },
+      {
+        "name": "DevOps & Tools",
+        "keywords": ["Docker", "Kubernetes", "GitHub Actions", "CI/CD"]
+      },
+      {
+        "name": "Data Engineering",
+        "keywords": ["ETL Pipeline Design", "Data Warehousing", "AWS Athena", "S3"]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      },
+      {
+        "language": "Spanish",
+        "fluency": "Native"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Programed Online Academy",
+        "description": "E-learning platform using Django, ElasticSearch, PostgreSQL",
+        "technologies": ["Django", "ElasticSearch", "PostgreSQL"]
+      },
+      {
+        "name": "Chebere Friends",
+        "description": "React-based web application",
+        "technologies": ["React"]
+      },
+      {
+        "name": "Gesic",
+        "description": "Django-based blog platform",
+        "technologies": ["Django"]
+      }
+    ]
+  }
